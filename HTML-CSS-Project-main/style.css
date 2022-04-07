@@ -1,0 +1,35 @@
+ /* the bodey*/ body {
+  background: #fbd3e9;
+  background: -webkit-linear-gradient(to right, #fbd3e9, #bb377d);
+  background: linear-gradient(to right, #fbd3e9, #bb377d);
+}
+.firstSEC {
+  position: absolute;
+  left: 300px;px;
+  top: 0px;
+}
+h1{
+  color: rgb(105, 120, 121);
+  position: relative;
+left: 500px;
+margin-top: -2%;
+}
+h3{
+  font-family: 'Libre Baskerville', serif;
+}
+
+button {
+  
+  left: 500px;
+  margin-top: 32%;
+  position:fixed; bottom:0;
+  
+}
+#sec{
+  background-image: url("background-image.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
